@@ -17,7 +17,7 @@ AI-driven competitor behaviors, and market adaptations in a realistic, turn-base
 - **Result Reporting:** Automatically generates comprehensive Excel reports summarizing the campaign, assets, actions, and outcomes for both companies.
 - **Save/Load Functionality:** Save campaign progress to resume or analyze scenarios later.
 
-## How It Works
+## How It Works ?
 
 Each simulation round represents a business quarter. You, as the primary company, allocate resources to business units, choose investment strategies, and influence market outcomes. 
 The AI competitor continually adapts its strategy, observing your moves and responding aggressively, defensively, or with deception. 
@@ -33,4 +33,3 @@ the final market share held by each company.
 - **Strategic planning:** Simulate campaigns for startups, established companies, or hypothetical sectors.
 
 
-"# BusinessStrategySimulator" 
