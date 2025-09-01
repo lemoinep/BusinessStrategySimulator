@@ -33,3 +33,36 @@ the final market share held by each company.
 - **Strategic planning:** Simulate campaigns for startups, established companies, or hypothetical sectors.
 
 
+
+---
+
+# Sun Tzu Stock Tactics Simulator
+
+This program is an interactive stock portfolio simulator inspired by the ancient strategies of Sun Tzu’s “The Art of War” and adapted to modern financial markets. It allows users to manage a portfolio consisting of major stocks and ETFs, while an AI adversary—representing the market—responds with evolving tactics modeled after classic Sun Tzu principles such as strategic deception, adaptation, and exploiting weakness.
+
+Throughout each simulation turn, the user determines portfolio allocations, responds to changing market conditions (including fear, volatility, and liquidity), and encounters dynamic events orchestrated by the AI. The AI opponent shifts between bullish, bearish, and sideways “personalities,” challenging the user’s positions using game theory and Sun Tzu-inspired logic. The system not only provides tactical advice—such as when to be aggressive or defensive—but also simulates the emotional element (“morale”) and psychological maneuvers that characterize both historical battles and real-world investing.
+
+
+## Key Features  
+- Simulates stock portfolio management inspired by Sun Tzu’s strategic principles from "The Art of War."  
+- Adaptive AI market opponent with changing personalities: bullish, bearish, or sideways.  
+- Dynamic market conditions based on fear index, liquidity, and volatility to challenge player decisions.  
+- Tactical guidance reflecting Sun Tzu ideas such as striking fear, conserving resources, and exploiting market weaknesses.  
+- Interactive GUI for selecting portfolio allocations and running multi-turn simulations.  
+- Detailed logs of trades, tactical decisions, and market responses for deep insights.  
+- Exportable reports tracking portfolio value, market sentiment, and AI strategy evolution.
+
+## How It Works  
+The user allocates percentages of their capital among a selection of major stocks and ETFs. Each simulation turn mimics real market conditions by dynamically adjusting factors like volatility, liquidity, and market fear. The market is represented by an AI adversary that changes tactics inspired by Sun Tzu's warfare strategies, influencing market events such as rallies or sharp drops.
+
+The program rebalances the portfolio automatically each turn according to the user’s allocation, while the AI tries to “outwit” the player by simulating adverse or favorable market moves. Users receive real-time feedback through logs and can observe how their portfolio performs compared to a baseline market index, representing the “battlefield” outcomes.
+
+## Use Cases  
+- As a learning tool for investors seeking to deepen understanding of market dynamics via strategic thinking.  
+- For practicing portfolio diversification and risk management under simulated volatile conditions.  
+- To explore how classical military strategies can translate into modern financial decision making.  
+- As a serious game combining investing and tactical challenge for enthusiasts of both domains.  
+- To test different tactical allocations and analyze the robustness of investment strategies against adaptive adversarial market behaviors.  
+
+
+This tool serves as both a learning platform for portfolio risk management and a serious game where investment decisions are pitted against a cunning, adaptive market adversary, helping users refine their skills in strategy, resource allocation, and psychological resilience under realistic trading scenarios.
