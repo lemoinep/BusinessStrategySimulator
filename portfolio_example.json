@@ -1,0 +1,19 @@
+{
+  "cash": 10000,
+  "stocks": [
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "quantity": 20,
+      "buy_date": "2025-01-15",
+      "buy_value": 150.0
+    },
+    {
+      "name": "Google",
+      "ticker": "GOOG",
+      "quantity": 5,
+      "buy_date": "2025-02-10",
+      "buy_value": 2800.0
+    }
+  ]
+}
