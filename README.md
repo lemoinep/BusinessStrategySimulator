@@ -106,17 +106,16 @@ The strategies implemented in the program combine concepts from **Sun Tzu’s Th
 
 ### Summary Table
 
-
-| Strategy Component      | Sun Tzu Principle                     | Chess Concept                  | Program Implementation                  |
-|-------------------------|---------------------------------------|--------------------- ----------|-----------------------------------------|
-| Preparation             | Know yourself/enemy                   | Calculation of opening         | Asset and market analysis               |
-| Adaptive Planning       | Flexibility/adapt to terrain          | Change plans in mid-game       | Personality & phase changes             |
-| Central Control         | Take strong positions                 | Control center                 | Sector dominance evaluation             |
-| Risk Management         | Avoid unnecessary battles             | Defend key squares             | Liquidity, tension, protective moves    |
-| Timing                  | Strike at right moment                | Wait for best moves            | Act on high-probability setups          |
-| Diversification         | Well-balanced force                   | Piece activity/coverage        | Portfolio diversification               |
-| Discipline              | Self-control and restraint            | Avoid blunders                 | Restricts impulsive trades              |
-| Exploitation            | Attack weakness, protect own          | Exploit weak squares, defend   | Seek undervalued assets, manage risk    |
+| Strategy Component | Sun Tzu Principle               | Chess Concept             | Program Implementation           |
+|--------------------|-------------------------------|---------------------------|---------------------------------|
+| Preparation        | Know yourself/enemy            | Calculation of opening     | Asset and market analysis       |
+| Adaptive Planning  | Flexibility/adapt to terrain   | Change plans in mid-game   | Personality & phase changes     |
+| Central Control    | Take strong positions          | Control center             | Sector dominance evaluation     |
+| Risk Management    | Avoid unnecessary battles      | Defend key squares         | Liquidity, tension, protective moves |
+| Timing             | Strike at right moment         | Wait for best moves        | Act on high-probability setups  |
+| Diversification    | Well-balanced force            | Piece activity/coverage    | Portfolio diversification       |
+| Discipline         | Self-control and restraint     | Avoid blunders             | Restricts impulsive trades      |
+| Exploitation       | Attack weakness, protect own   | Exploit weak squares, defend | Seek undervalued assets, manage risk |
 
 
 This holistic approach encourages disciplined, flexible, and intelligent market participation, blending ancient strategic wisdom with proven decision-making frameworks
