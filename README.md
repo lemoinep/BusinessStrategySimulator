@@ -66,3 +66,58 @@ The program rebalances the portfolio automatically each turn according to the us
 
 
 This tool serves as both a learning platform for portfolio risk management and a serious game where investment decisions are pitted against a cunning, adaptive market adversary, helping users refine their skills in strategy, resource allocation, and psychological resilience under realistic trading scenarios.
+
+
+
+---
+
+# Sun Tzu The Art of Investment War in real time + Chess AI logic
+
+The strategies implemented in the program combine concepts from **Sun Tzu’s The Art of War** and **chess strategy** to guide investment decisions in modern stock markets.
+
+## Strategic Topics and Clarifications
+
+### Preparation and Planning
+- The program analyzes both the market and portfolio before acting, treating every investment decision like preparation before a battle or chess match.
+- It emphasizes gathering intelligence (market data, asset performance), mirroring Sun Tzu’s advice to “know yourself and your enemy”.
+
+### Adaptive Allocation and Risk Management
+- The AI continually adjusts its behavior and portfolio allocations in response to changing market conditions, just as both Sun Tzu and chess principles recommend adaptability and readiness to pivot strategies.
+- Risk management is central: it avoids unnecessary battles (risky trades), preserves liquidity, and recommends defensive moves when market tension is high, protecting capital for long-term success.
+
+### Positioning and Control
+- Assets are evaluated for their “central control” of the market, much like chess pieces dominating the center of the board.
+- The program seeks strong positions in key sectors, maximizes advantage where possible, and adjusts if the market signals weakness.
+
+### Timing and Patience
+- AI patiently waits for high-probability opportunities and only takes aggressive actions when the timing is right, in line with Sun Tzu’s teachings on patience and exploiting the perfect moment.
+
+### Tactical Adaptation
+- Recommendations include attacking (buying more when the market presents opportunities), defending (selling or holding during high volatility), or simplifying (exiting weak positions in low-tension phases).
+- The strategy engine tracks phases (opening, mid-game, endgame, stability), adapting its approach and tactics as the simulation unfolds.
+
+### Discipline and Exploitation
+- The AI enforces discipline, sticking to strategic plans and avoiding impulsive or emotional decisions.
+- It exploits market weaknesses—identifying undervalued opportunities and protecting against overexposure or false signals.
+
+### Diversification and Flexibility
+- The portfolio is diversified to balance risk, and the AI remains flexible, adapting allocation and tactics to evolving market environments.
+
+
+### Summary Table
+
+| Strategy Component      | Sun Tzu Principle                    | Chess Concept                  | Program Implementation                  |
+|------------------------|---------------------------------------|--------------------- ----------|-----------------------------------------|
+| Preparation            | Know yourself/enemy                   | Calculation of opening         | Asset and market analysis               |
+| Adaptive Planning      | Flexibility/adapt to terrain          | Change plans in mid-game       | Personality & phase changes             |
+| Central Control        | Take strong positions                 | Control center                 | Sector dominance evaluation             |
+| Risk Management        | Avoid unnecessary battles             | Defend key squares             | Liquidity, tension, protective moves    |
+| Timing                 | Strike at right moment                | Wait for best moves            | Act on high-probability setups          |
+| Diversification        | Well-balanced force                   | Piece activity/coverage        | Portfolio diversification               |
+| Discipline             | Self-control and restraint            | Avoid blunders                 | Restricts impulsive trades              |
+| Exploitation           | Attack weakness, protect own          | Exploit weak squares, defend   | Seek undervalued assets, manage risk    |
+
+This holistic approach encourages disciplined, flexible, and intelligent market participation, blending ancient strategic wisdom with proven decision-making frameworks
+to optimize investment results.
+
+
