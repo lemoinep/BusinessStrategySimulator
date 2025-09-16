@@ -106,7 +106,7 @@ The strategies implemented in the program combine concepts from **Sun Tzu’s Th
 
 ### Summary Table
 
-----------------------------------------------------------------------------------------------------------------------------------------------
+
 | Strategy Component      | Sun Tzu Principle                     | Chess Concept                  | Program Implementation                  |
 |-------------------------|---------------------------------------|--------------------- ----------|-----------------------------------------|
 | Preparation             | Know yourself/enemy                   | Calculation of opening         | Asset and market analysis               |
@@ -117,7 +117,7 @@ The strategies implemented in the program combine concepts from **Sun Tzu’s Th
 | Diversification         | Well-balanced force                   | Piece activity/coverage        | Portfolio diversification               |
 | Discipline              | Self-control and restraint            | Avoid blunders                 | Restricts impulsive trades              |
 | Exploitation            | Attack weakness, protect own          | Exploit weak squares, defend   | Seek undervalued assets, manage risk    |
-----------------------------------------------------------------------------------------------------------------------------------------------
+
 
 This holistic approach encourages disciplined, flexible, and intelligent market participation, blending ancient strategic wisdom with proven decision-making frameworks
 to optimize investment results.
