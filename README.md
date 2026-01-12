@@ -1,11 +1,16 @@
 # Business Strategy Simulator – Sun Tzu Tactics for Modern Competition
 
+<p align="center">
 <img src="Images/P0003.jpg" width="75%" />
+</p>
 
 **Business Strategy Simulator** is an interactive application that models and analyzes the strategic and financial competition between two companies. 
 Inspired by the principles of Sun Tzu’s “The Art of War,” the simulator helps users experiment with offensive and defensive business tactics, resource allocation, 
 AI-driven competitor behaviors, and market adaptations in a realistic, turn-based environment.
 
+<p align="center">
+<img src="Images/P0009.jpg" width="75%" />
+</p>
 
 ## Key Features
 
@@ -23,8 +28,11 @@ AI-driven competitor behaviors, and market adaptations in a realistic, turn-base
 
 ## How It Works ?
 
+<p align="center">
 <img src="Images/P0008.jpg" width="75%" />
 <img src="Images/P0004.jpg" width="75%" />
+</p>
+
 
 Each simulation round represents a business quarter. You, as the primary company, allocate resources to business units, choose investment strategies, and influence market outcomes. 
 The AI competitor continually adapts its strategy, observing your moves and responding aggressively, defensively, or with deception. 
@@ -49,7 +57,10 @@ This program is an interactive stock portfolio simulator inspired by the ancient
 
 Throughout each simulation turn, the user determines portfolio allocations, responds to changing market conditions (including fear, volatility, and liquidity), and encounters dynamic events orchestrated by the AI. The AI opponent shifts between bullish, bearish, and sideways “personalities,” challenging the user’s positions using game theory and Sun Tzu-inspired logic. The system not only provides tactical advice—such as when to be aggressive or defensive—but also simulates the emotional element (“morale”) and psychological maneuvers that characterize both historical battles and real-world investing.
 
+<p align="center">
 <img src="Images/P0006.jpg" width="75%" />
+</p>
+
 
 ## Key Features  
 - Simulates stock portfolio management inspired by Sun Tzu’s strategic principles from "The Art of War."  
@@ -81,7 +92,9 @@ This tool serves as both a learning platform for portfolio risk management and a
 
 # Sun Tzu The Art of Investment War in real time + Chess AI logic
 
+<p align="center">
 <img src="Images/P0007.jpg" width="75%" />
+</p>
 
 The strategies implemented in the program combine concepts from **Sun Tzu’s The Art of War** and **chess strategy** to guide investment decisions in modern stock markets.
 
@@ -132,3 +145,17 @@ This holistic approach encourages disciplined, flexible, and intelligent market 
 to optimize investment results.
 
 
+## For more information
+
+<img src="Images/Z20260110_000001.jpg" width="100%" />
+<img src="Images/Z20260110_000002.jpg" width="100%" />
+<img src="Images/Z20260110_000003.jpg" width="100%" />
+<img src="Images/Z20260110_000004.jpg" width="100%" />
+<img src="Images/Z20260110_000005.jpg" width="100%" />
+<img src="Images/Z20260110_000006.jpg" width="100%" />
+<img src="Images/Z20260110_000007.jpg" width="100%" />
+<img src="Images/Z20260110_000008.jpg" width="100%" />
+<img src="Images/Z20260110_000009.jpg" width="100%" />
+<img src="Images/Z20260110_000010.jpg" width="100%" />
+<img src="Images/Z20260110_000011.jpg" width="100%" />
+<img src="Images/Z20260110_000012.jpg" width="100%" />
