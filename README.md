@@ -1,5 +1,11 @@
 # Business Strategy Simulator – Sun Tzu Tactics for Modern Competition
 
+[![Version](https://img.shields.io/badge/version-1.5-green.svg)](https://github.com/lemoinep/BusinessStrategySimulator)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
+
+---
+
 <p align="center">
 <img src="Images/P0003.jpg" width="75%" />
 </p>
@@ -159,3 +165,13 @@ to optimize investment results.
 <img src="Images/Z20260110_000010.jpg" width="100%" />
 <img src="Images/Z20260110_000011.jpg" width="100%" />
 <img src="Images/Z20260110_000012.jpg" width="100%" />
+
+---
+
+## 📝 **Author**
+
+**Dr. Patrick Lemoine**  
+*Engineer Expert in Scientific Computing*  
+[LinkedIn](https://www.linkedin.com/in/patrick-lemoine-7ba11b72/)
+
+---
