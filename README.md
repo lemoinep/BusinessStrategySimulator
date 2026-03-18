@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<img src="Images/P0003.jpg" width="75%" />
+<img src="Images/P0003.jpg" width="100%" />
 </p>
 
 **Business Strategy Simulator** is an interactive application that models and analyzes the strategic and financial competition between two companies. 
@@ -15,7 +15,7 @@ Inspired by the principles of Sun Tzu’s “The Art of War,” the simulator he
 AI-driven competitor behaviors, and market adaptations in a realistic, turn-based environment.
 
 <p align="center">
-<img src="Images/P0009.jpg" width="75%" />
+<img src="Images/P0009.jpg" width="100%" />
 </p>
 
 ## Key Features
@@ -35,8 +35,8 @@ AI-driven competitor behaviors, and market adaptations in a realistic, turn-base
 ## How It Works ?
 
 <p align="center">
-<img src="Images/P0008.jpg" width="75%" />
-<img src="Images/P0004.jpg" width="75%" />
+<img src="Images/P0008.jpg" width="100%" />
+<img src="Images/P0004.jpg" width="100%" />
 </p>
 
 
@@ -99,7 +99,7 @@ This tool serves as both a learning platform for portfolio risk management and a
 # Sun Tzu The Art of Investment War in real time + Chess AI logic
 
 <p align="center">
-<img src="Images/P0007.jpg" width="75%" />
+<img src="Images/P0007.jpg" width="100%" />
 </p>
 
 The strategies implemented in the program combine concepts from **Sun Tzu’s The Art of War** and **chess strategy** to guide investment decisions in modern stock markets.
