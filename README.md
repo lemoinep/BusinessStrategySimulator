@@ -14,6 +14,8 @@
 Inspired by the principles of Sun Tzu’s “The Art of War,” the simulator helps users experiment with offensive and defensive business tactics, resource allocation, 
 AI-driven competitor behaviors, and market adaptations in a realistic, turn-based environment.
 
+[Play audio](./Medias/Coding_Sun_Tzu_for_2026_stock_crashes.mp3)
+
 <p align="center">
 <img src="Images/P0009.jpg" width="100%" />
 </p>
